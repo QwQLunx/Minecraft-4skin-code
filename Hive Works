@@ -1,0 +1,5 @@
+Zombie Arm 
+"animations": {
+        "move.arms": "animation.player.move.arms.zombie"
+      },
+
